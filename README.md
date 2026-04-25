@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH TYPING EFFECT -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20[YourName]%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20coffee%20into%20code%20since%20day%20one&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Qamar%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20coffee%20into%20code%20since%20day%20one&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- ANIMATED TYPING SVG -->
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Qamar-cpp">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+Wizard+%E2%9C%A8;Building+the+future%2C+one+commit+at+a+time+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
@@ -12,8 +12,8 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=236ad3" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Qamar-cpp&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Qamar-cpp?label=Followers&style=for-the-badge&color=236ad3" alt="followers"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-brightgreen?style=for-the-badge" />
 </p>
 
@@ -33,7 +33,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="coding gif"/>
 
 ```yaml
-name: "[Your Name]"
+name: "[Qaamr abbas]"
 location: "Pakistan 🇵🇰"
 role: "Full Stack Developer"
 available_for: "Freelance & Full-time"
